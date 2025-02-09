@@ -26,10 +26,10 @@ noBtn.addEventListener('mouseover', () => {
 });
 
 function generateCalendarInvite() {
-    const restaurantName = "Romantic Restaurant"; // Replace with your chosen restaurant
-    const location = "123 Love Street, City, Country"; // Replace with the actual address
-    const startTime = "2025-02-14T19:00:00"; // Replace with your desired date and time
-    const endTime = "2025-02-14T22:00:00"; // Adjust end time as needed
+    const restaurantName = "Traveler's Table"; // Replace with your chosen restaurant
+    const location = "520 WestHeimer Road, Houston"; // Replace with the actual address
+    const startTime = "2025-02-14T14:00:00"; // Replace with your desired date and time
+    const endTime = "2025-02-14T16:00:00"; // Adjust end time as needed
 
     const icsContent = `BEGIN:VCALENDAR
 VERSION:2.0
